@@ -28,7 +28,7 @@
 | 网络 | [HTTP与HTTPS](./) </br> [Socket](./) </br> [AFN, Alamofire, Moya](./) | 
 | 安全 | [加密与解密](./) | 
 | 基础知识 | [成员变量、实例变量、属性(变量)](./) </br> [](./) </br> [](./)</br> [](./)</br> [](./)</br> [](./)</br> [](./)</br> [](./)| 
-| OC | [OC属性修饰符的使用](https://github.com/deepindo/DoNote-iOS/wiki/iOS%E4%B8%AD%E5%B1%9E%E6%80%A7%E4%BF%AE%E9%A5%B0%E7%AC%A6) | 
+| OC | [OC属性修饰符的使用](https://github.com/deepindo/DoNote-iOS/wiki/OC%E4%B8%AD%E5%B1%9E%E6%80%A7%E4%BF%AE%E9%A5%B0%E7%AC%A6) | 
 | Swift | [](./)  | 
 | Runtime |  | 
 | Runloop |  | 
