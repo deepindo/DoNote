@@ -32,7 +32,7 @@
 
 ## <a name="二、iOS舆图"></a> 二、iOS舆图
 
-iOS学习笔记通过wiki查看: 
+iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 
 
 ## 三、欢迎提交 PR / issue
