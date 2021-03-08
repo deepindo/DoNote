@@ -42,7 +42,7 @@
 | KVO底层 | [KVO](https://juejin.cn/post/6844903939595468814) | 
 | 动画 |  | 
 | 单元测试 | [逻辑测试](./) </br> [异步测试](./) </br> [性能测试](./) </br> [UI测试](./) </br> [OCMock依赖注入](./) </br> | 
-| 性能监控 | [CPU功耗监控] (https://juejin.cn/post/6844904032205537288)|
+| 性能监控 | [CPU功耗监控](https://juejin.cn/post/6844904032205537288)|
 | APP优化 | [App冷启动治理：来自美团外卖的实践](https://juejin.cn/post/6844903733231353863) </br> [内存优化](./) </br> [界面优化](./) </br> [网络优化](./) </br> | 
 | 主流第三方框架赏析 |  [SDWebImage](./) </br> [AFNetworking](./) </br> [MJExtension](./) </br> | 
 | 跨平台 | [Swift与JSContext的交互](https://github.com/deepindo/DoNote-iOS/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)  | 
