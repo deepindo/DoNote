@@ -1,8 +1,16 @@
-# DoNote-iOS
+# DoNote
+
+<p align='left'>
+
+<img src="https://img.shields.io/github/stars/deepindo/DoNote.svg">
+<img src="https://img.shields.io/github/forks/deepindo/DoNote.svg">
+<img src="https://img.shields.io/badge/platform-iOS-ff69b4.svg">
+<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorA=a0cd34">
+<img src="https://img.shields.io/packagist/l/doctrine/orm.svg">
+
+</p>
 
 > 持续更新中！！！！！！
-> 
-> 
 
 
 ****
@@ -24,32 +32,7 @@
 
 ## <a name="二、iOS舆图"></a> 二、iOS舆图
 
-| CATEGORY | URL |
-| :--- | :--- | 
-| 数据结构 | [](./) | 
-| 算法 | [](./) | 
-| 网络 | [HTTP与HTTPS](./) </br> [Socket](./) </br> [AFN, Alamofire, Moya](./) | 
-| 安全 | [加密与解密](./) | 
-| 基础知识 | [成员变量、实例变量、属性(变量)](./) </br> [](./) </br> [](./)</br> [](./)</br> [](./)</br> [](./)</br> [](./)</br> [](./)| 
-| OC | [OC属性修饰符的使用](https://github.com/deepindo/DoNote-iOS/wiki/OC%E4%B8%AD%E5%B1%9E%E6%80%A7%E4%BF%AE%E9%A5%B0%E7%AC%A6) | 
-| Swift | [](./)  | 
-| 数据存储 | [iOS 数据存储(持久化存储、缓存)](https://juejin.cn/post/6891187709760110599) </br> [最全iOS数据存储方法介绍](https://juejin.cn/post/6844903501206650894) </br> [](./) </br> | 
-| 设计模式 | [创建型模式](./) </br> [结构型模式](./) </br> [行为型模式](./) </br> [加构设计模式](./) </br> | 
-| Runtime | [Runtime的使用场景](https://juejin.cn/post/6844903887426568200) | 
-| 多线程 | [pThread](./) </br> [NSThread](./) </br> [GCD](./) </br> [NSOperation](./) </br> [多种锁](./) </br> | 
-| Runloop | [CFRunLoop](https://github.com/deepindo/DoNote-iOS/wiki/CFRunLoop) </br> [RunLoop详解](https://juejin.cn/post/6844903588712415239) | 
-| KVC原理 |  | 
-| KVO底层 | [KVO](https://juejin.cn/post/6844903939595468814) | 
-| 动画 |  | 
-| 单元测试 | [逻辑测试](./) </br> [异步测试](./) </br> [性能测试](./) </br> [UI测试](./) </br> [OCMock依赖注入](./) </br> | 
-| 性能监控 | [CPU功耗监控](https://juejin.cn/post/6844904032205537288)|
-| APP优化 | [App冷启动治理：来自美团外卖的实践](https://juejin.cn/post/6844903733231353863) </br> [内存优化](./) </br> [界面优化](./) </br> [网络优化](./) </br> | 
-| 主流第三方框架赏析 |  [SDWebImage](./) </br> [AFNetworking](./) </br> [MJExtension](./) </br> | 
-| 跨平台 | [Swift与JSContext的交互](https://github.com/deepindo/DoNote-iOS/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)  | 
-| 项目持续集成\自动化打包 |  | 
-| 组件化 |  | 
-| 响应式编程 |  | 
-
+iOS学习笔记通过wiki查看: 
 
 
 ## 三、欢迎提交 PR / issue
