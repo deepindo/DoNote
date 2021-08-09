@@ -34,6 +34,111 @@
 
 iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 
+### iOS基础
+#### 布局
+1. Autolayout
+2. Snapkit
+3. Masonry
+4. Simplex算法
+5. Flexbox
+6. AsyncDisplayKit
+
+#### 列表
+1. UITableView
+2. UICollectionView
+3. ExpandableCell
+4. Header
+5. Placeholder
+6. CollectionViewLayout
+7. IGListKit
+
+#### 图表
+1. Charts
+
+#### 图形
+1. CoreGraphics
+2. Git
+3. 图片
+4. 图片处理
+5. PDF
+
+#### 多媒休
+1. 视频
+2. 音频
+3. 游戏
+4. ARKit
+5. CoreGraphics
+6. CoreImage
+7. Metal
+8. GPUImage
+9. SceneKit
+10. Image I/O
+11. SiriKit
+
+#### AppService
+1. 硬件
+2. 定位(CoreLoation)
+3. 通知
+4. WebView
+5. WebScoket
+6. iCloud
+7. WatchKit
+8. 照片
+9. 相机
+10. 文件管理
+11. 手势
+12. 键盘
+13. 蓝牙
+14. NFC
+15. ForceTouch
+16. iBeacon
+17. 地图
+18. AppleTV
+19. Email
+20. PassBook
+21. 支付
+22. 权限
+23. CoreMotion
+
+### iOS系统
+#### Foundation
+
+#### 界面
+1. UIViewController
+2. UINavigationController
+3. ScrollView
+4. 按钮
+5. Label
+6. 表单
+7. 登录
+8. 菜单
+9. Navigation Bar
+10. Popup
+11. 进度条
+12. 下拉刷新
+13. SegmentedControl
+14. Slider
+15. SplashView
+16. StatusBar
+17. Stepper
+18. Switch
+19. TabBar
+20. PickerView
+21. 日历
+22. 卡片
+23. 自定义控件
+24. 浮层
+25. 弹窗
+26. 标签
+27. 通知中心
+28. Text
+29. TextKit
+30. UIPageControl
+31. CoreText
+32. 字体
+33. 多窗口
+34. 向导
+
 
 ## 三、欢迎提交 PR / issue
 
