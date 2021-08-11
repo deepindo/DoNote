@@ -21,15 +21,22 @@
 > **知行合一，真正做到很难，0到1的过程，就从这第一步开始吧！**
 ***
 
+## 一、思维
+
+| CATEGORY | URL |
+| :--- | :--- | 
+| 数据结构 | [](./) | 
+| 内存管理 | [iOS中引用计数相关问题](https://www.jianshu.com/p/13c9199350de/) </br> | 
+| 类结构 | [iOS中类、元类、isa详解](http://www.cocoachina.com/articles/21805) </br> | 
 
 
-## 一、面试集
+## 二、面试集
 1. [2021-iOS面试题集](./Interview-iOS/2021-iOS面试题总结.md)
 2. [iOSInterviewsAndDevNotes](https://github.com/DevDragonLi/iOSInterviewsAndDevNotes)
 3. [全新角度剖析--iOS面试](https://juejin.cn/post/6899689319809286158)
 4. [2020-iOS面试题集合](https://github.com/LGCooci/LGiOSQuestions)
 
-## <a name="二、iOS舆图"></a> 二、iOS舆图
+## <a name="二、iOS舆图"></a> 三、iOS舆图
 
 iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 
