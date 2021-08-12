@@ -25,34 +25,76 @@
 
 ### OC Basic
 
-* 数据结构
-</br> [管理对象内存的数据结构以及操作算法--SideTables、RefcountMap、weak_table_t](http://www.cocoachina.com/articles/19030)
+* Data Structure
+<br/> [管理对象内存的数据结构以及操作算法--SideTables、RefcountMap、weak_table_t](http://www.cocoachina.com/articles/19030)
 
 * Memory Management
-</br> [iOS中引用计数相关问题](https://www.jianshu.com/p/13c9199350de/)
-</br> [iOS中类、元类、isa详解](http://www.cocoachina.com/articles/21805)
+<br/> [iOS中引用计数相关问题](https://www.jianshu.com/p/13c9199350de/)
+<br/> [iOS中类、元类、isa详解](http://www.cocoachina.com/articles/21805)
+<br/> [SideTable](https://github.com/deepindo/DoNote/wiki/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86-SideTable)
 
 * Property 
-</br> [OC中属性修饰符](https://github.com/deepindo/DoNote/wiki/OC%E4%B8%AD%E5%B1%9E%E6%80%A7%E4%BF%AE%E9%A5%B0%E7%AC%A6)
+<br/> [OC中属性修饰符](https://github.com/deepindo/DoNote/wiki/OC%E4%B8%AD%E5%B1%9E%E6%80%A7%E4%BF%AE%E9%A5%B0%E7%AC%A6)
+<br/> [weakSelf、strongSelf、@weakify、@strongify](https://github.com/deepindo/DoNote/wiki/iOS%E4%B8%AD%E7%9A%84weakSelf%E3%80%81strongSelf%E3%80%81@weakify%E3%80%81@strongify)
+<br/> [weakSelf与strongSelf的理解](https://github.com/deepindo/DoNote/wiki/weakSelf%E4%B8%8EstrongSelf%E7%9A%84%E7%90%86%E8%A7%A3)
 
 * KVO
 * KVC
 * Block
 * Delegate
-* Runloop
+* Runloop 
+<br/> [CFRunLoop](https://github.com/deepindo/DoNote/wiki/CFRunLoop)
+
 * Runtime
+<br/> [Objc Runtime](https://github.com/deepindo/DoNote/wiki/Objc-Runtime)
+
+* Multithreading
+<br/> [dispatch_group](https://github.com/deepindo/DoNote/wiki/iOS-dispatch_group)
+
 * Network
+<br/> [iOS网络请求](https://github.com/deepindo/DoNote/wiki/iOS%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82)
+
+* Native&JS
+
 * Encryption
+* [Algorithm](https://github.com/deepindo/DoNote/wiki/%E7%AE%97%E6%B3%95)
 * objc_msgsend
 * MVC、MVVM、MVP：https://www.php.cn/faq/417265.html 
-* ThirdFrameworks
-* SDKs
+* View 
+<br/> [layoutSubviews 和 layoutIfNeeded](https://github.com/deepindo/DoNote/wiki/iOS-layoutSubviews-%E5%92%8C-layoutIfNeeded)
+<br/> [MBProgressHud 自定义背景 背景色 标题颜色](https://github.com/deepindo/DoNote/wiki/ios-MBProgressHud-%E8%87%AA%E5%AE%9A%E4%B9%89%E8%83%8C%E6%99%AF-%E8%83%8C%E6%99%AF%E8%89%B2-%E6%A0%87%E9%A2%98%E9%A2%9C%E8%89%B2)
+
+* Third Party
+<br/> [AFN]()
+
+* SDKs 
+<br/> [iOS推送](https://github.com/deepindo/DoNote/wiki/iOS%E6%8E%A8%E9%80%81)
+<br/> [iOS日志及上报](https://github.com/deepindo/DoNote/wiki/iOS%E6%97%A5%E5%BF%97%E5%8F%8A%E4%B8%8A%E6%8A%A5)
+<br/> []()
 
 ### Swift 
 * Struct
 * Protocol
 * Extension
 * Map & FlatMap
+* [Swift与JSContext的交互](https://github.com/deepindo/DoNote/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)
+
+
+### App
+
+* [iOS app的编译过程](https://github.com/deepindo/DoNote/wiki/iOS-app%E7%9A%84%E7%BC%96%E8%AF%91%E8%BF%87%E7%A8%8B)
+* [宏(define)与常量(const)的比较](https://github.com/deepindo/DoNote/wiki/iOS-%E5%AE%8F(define)%E4%B8%8E%E5%B8%B8%E9%87%8F(const)%E7%9A%84%E6%AF%94%E8%BE%83)
+* [break、continue、return三者的区别](https://github.com/deepindo/DoNote/wiki/iOS%E4%B8%ADbreak%E3%80%81continue%E3%80%81return%E4%B8%89%E8%80%85%E7%9A%84%E5%8C%BA%E5%88%AB)
+* [向上取整、向下取整、四舍五入](https://github.com/deepindo/DoNote/wiki/iOS%E5%90%91%E4%B8%8A%E5%8F%96%E6%95%B4%E3%80%81%E5%90%91%E4%B8%8B%E5%8F%96%E6%95%B4%E3%80%81%E5%9B%9B%E8%88%8D%E4%BA%94%E5%85%A5)
+* [UUID](https://github.com/deepindo/DoNote/wiki/iOS-%E5%85%B3%E4%BA%8EUUID)
+* [use_frameworks! 和 #use_frameworks!的区别](https://github.com/deepindo/DoNote/wiki/use_frameworks!-%E5%92%8C-%23use_frameworks!%E7%9A%84%E5%8C%BA%E5%88%AB)
+* App优化
+<br/> [App性能优化](https://github.com/deepindo/DoNote/wiki/APP%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
+
+
+### Other
+
+* [iOS新闻类App内容页技术探索](https://github.com/deepindo/DoNote/wiki/iOS%E6%96%B0%E9%97%BB%E7%B1%BBApp%E5%86%85%E5%AE%B9%E9%A1%B5%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2)
 
 
 ## 二、面试集
