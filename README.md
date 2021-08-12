@@ -98,7 +98,8 @@
 
 
 ## 二、面试集
-1. [2021-iOS面试题集](./Interview-iOS/2021-iOS面试题总结.md)
+
+1. [iOS面试题大全--(附答案)](https://www.jianshu.com/p/e709fde38de3)
 2. [iOSInterviewsAndDevNotes](https://github.com/DevDragonLi/iOSInterviewsAndDevNotes)
 3. [全新角度剖析--iOS面试](https://juejin.cn/post/6899689319809286158)
 4. [2020-iOS面试题集合](https://github.com/LGCooci/LGiOSQuestions)
