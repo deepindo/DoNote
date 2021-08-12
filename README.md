@@ -57,6 +57,10 @@
 * Native&JS
 
 * Encryption
+<br/> [iOS加密--AES（CBC）和RSA组合加密（避坑）](https://www.jianshu.com/p/4449b0040b24)
+<br/> [iOS加密方式（RSA签名加密、AES加密等）](https://blog.csdn.net/IT_201607/article/details/76162551)
+<br/> [iOS,一行代码进行RSA、DES 、AES、MD5加密、解密](http://www.cocoachina.com/articles/16480)
+
 * [Algorithm](https://github.com/deepindo/DoNote/wiki/%E7%AE%97%E6%B3%95)
 * objc_msgsend
 * MVC、MVVM、MVP
