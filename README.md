@@ -59,7 +59,9 @@
 * Encryption
 * [Algorithm](https://github.com/deepindo/DoNote/wiki/%E7%AE%97%E6%B3%95)
 * objc_msgsend
-* MVC、MVVM、MVP：https://www.php.cn/faq/417265.html 
+* MVC、MVVM、MVP
+<br/> [MVC、MVP和MVVM之间的区别是什么？](https://www.php.cn/faq/417265.html)
+
 * View 
 <br/> [layoutSubviews 和 layoutIfNeeded](https://github.com/deepindo/DoNote/wiki/iOS-layoutSubviews-%E5%92%8C-layoutIfNeeded)
 <br/> [MBProgressHud 自定义背景 背景色 标题颜色](https://github.com/deepindo/DoNote/wiki/ios-MBProgressHud-%E8%87%AA%E5%AE%9A%E4%B9%89%E8%83%8C%E6%99%AF-%E8%83%8C%E6%99%AF%E8%89%B2-%E6%A0%87%E9%A2%98%E9%A2%9C%E8%89%B2)
