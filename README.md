@@ -23,11 +23,36 @@
 
 ## 一、思维
 
-| CATEGORY | URL |
-| :--- | :--- | 
-| 数据结构 | [管理对象内存的数据结构以及操作算法--SideTables、RefcountMap、weak_table_t](http://www.cocoachina.com/articles/19030) | 
-| 内存管理 | [iOS中引用计数相关问题](https://www.jianshu.com/p/13c9199350de/) </br> | 
-| 类结构 | [iOS中类、元类、isa详解](http://www.cocoachina.com/articles/21805) </br> | 
+### OC Basic
+
+* 数据结构
+</br> [管理对象内存的数据结构以及操作算法--SideTables、RefcountMap、weak_table_t](http://www.cocoachina.com/articles/19030)
+
+* Memory Management
+</br> [iOS中引用计数相关问题](https://www.jianshu.com/p/13c9199350de/)
+</br> [iOS中类、元类、isa详解](http://www.cocoachina.com/articles/21805)
+
+* Property 
+</br> [OC中属性修饰符](https://github.com/deepindo/DoNote/wiki/OC%E4%B8%AD%E5%B1%9E%E6%80%A7%E4%BF%AE%E9%A5%B0%E7%AC%A6)
+
+* KVO
+* KVC
+* Block
+* Delegate
+* Runloop
+* Runtime
+* Network
+* Encryption
+* objc_msgsend
+* MVC、MVVM、MVP：https://www.php.cn/faq/417265.html 
+* ThirdFrameworks
+* SDKs
+
+### Swift 
+* Struct
+* Protocol
+* Extension
+* Map & FlatMap
 
 
 ## 二、面试集
