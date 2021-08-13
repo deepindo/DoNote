@@ -15,9 +15,9 @@
 - **行动**: 在这里从全局的角度将iOS的开发舆图整理出来，然后逐渐补全学习或者整理笔记，另根据知识整理面试题集，知其然，知其所以然，还得能条理的表达出来。以上作为自己`自救`的一个方式吧！**知行合一**，真正做到很难，0到1的过程，就从这第一步开始吧！
 
 
-### 一、思维
+## 一、思维
 
-#### 1. OC Basic
+### 1. OC Basic
 
   - [ ] **Data Structure** - 数据结构 
         <br/> [管理对象内存的数据结构以及操作算法--SideTables、RefcountMap、weak_table_t](http://www.cocoachina.com/articles/19030)
@@ -79,7 +79,7 @@
         <br/> [iOS日志及上报](https://github.com/deepindo/DoNote/wiki/iOS%E6%97%A5%E5%BF%97%E5%8F%8A%E4%B8%8A%E6%8A%A5)
         <br/> []()
 
-#### 2. Swift 
+### 2. Swift 
   - [ ] **Struct**
   - [ ] **Protocol**
   - [ ] **Extension**
@@ -91,7 +91,7 @@
         - [Swift与JSContext的交互](https://github.com/deepindo/DoNote/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)
 
 
-#### 3. App
+### 3. App
 
   - [x] [iOS app的编译过程](https://github.com/deepindo/DoNote/wiki/iOS-app%E7%9A%84%E7%BC%96%E8%AF%91%E8%BF%87%E7%A8%8B)
   - [x] [宏(define)与常量(const)的比较](https://github.com/deepindo/DoNote/wiki/iOS-%E5%AE%8F(define)%E4%B8%8E%E5%B8%B8%E9%87%8F(const)%E7%9A%84%E6%AF%94%E8%BE%83)
@@ -109,7 +109,7 @@
           <br/> [App性能优化](https://github.com/deepindo/DoNote/wiki/APP%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
 ```    
 
-### 二、面试集
+## 二、面试集
 
 1. [iOS面试题大全--(附答案)](https://www.jianshu.com/p/e709fde38de3)
 2. [iOSInterviewsAndDevNotes](https://github.com/DevDragonLi/iOSInterviewsAndDevNotes)
@@ -118,14 +118,14 @@
   
 
   
-### <a name="二、iOS舆图"></a> 三、iOS舆图
+## <a name="二、iOS舆图"></a> 三、iOS舆图
 
 iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 
 ![](./NSObject-UITree.png)
 
-#### iOS基础
-##### 布局
+### iOS基础
+#### 布局
 1. Autolayout
 2. Snapkit
 3. Masonry
@@ -133,7 +133,7 @@ iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 5. Flexbox
 6. AsyncDisplayKit
 
-##### 列表
+#### 列表
 1. UITableView
 2. UICollectionView
 3. ExpandableCell
@@ -142,17 +142,17 @@ iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 6. CollectionViewLayout
 7. IGListKit
 
-#### 图表
+### 图表
 1. Charts
 
-##### 图形
+#### 图形
 1. CoreGraphics
 2. Git
 3. 图片
 4. 图片处理
 5. PDF
 
-##### 多媒休
+#### 多媒休
 1. 视频
 2. 音频
 3. 游戏
@@ -165,7 +165,7 @@ iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 10. Image I/O
 11. SiriKit
 
-##### AppService
+#### AppService
 1. 硬件
 2. 定位(CoreLoation)
 3. 通知
@@ -190,10 +190,10 @@ iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 22. 权限
 23. CoreMotion
 
-#### iOS系统
-##### Foundation
+### iOS系统
+#### Foundation
 
-##### 界面
+#### 界面
 1. UIViewController
 2. UINavigationController
 3. ScrollView
@@ -230,7 +230,7 @@ iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 34. 向导
 
 
-### 三、欢迎提交 PR / issue
+## 三、欢迎提交 PR / issue
 
 
 - 收集整理不易，且赞且珍惜！如果你觉得此仓库对你有价值，欢迎 star/fork，蟹蟹🤝。
