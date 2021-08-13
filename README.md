@@ -50,6 +50,8 @@
   - [ ] **Native&JS** - 原生成JS交互
 
   - [x] **Encryption** - 加密与解密
+   - [加密解密、数字签名和证书、Token&SessionID、HTTPS](https://github.com/deepindo/DoNote/wiki/Encryption%E3%80%81Signature%E3%80%81Token&SessionID%E3%80%81HTTPS)
+   - [加密算法](https://github.com/deepindo/DoNote/wiki/Encryption-Algorithm)
         <br/> [iOS RSA的网络安全模型、iOS签名机制总结（登录、token安全、签名）](https://www.jianshu.com/p/2927ca2b3719)
         <br/> [iOS,一行代码进行RSA、DES 、AES、MD5加密、解密](http://www.cocoachina.com/articles/16480)
         <br/> [iOS加密--AES（CBC）和RSA组合加密（避坑）](https://www.jianshu.com/p/4449b0040b24)
@@ -60,11 +62,10 @@
         <br/> [算法](https://github.com/deepindo/DoNote/wiki/%E7%AE%97%E6%B3%95)
   - [ ] **objc_msgsend**
   - [x] **Design Patterns** - 设计模式.
-  
-        1. 创建模式：工厂模式、单子模式、建造者模式、原型模式、工厂方法模式
-        2. 结构模式：外观模式、代理模式、适配器模式、组合模式、装饰模式、桥模式、共享模式
-        3. 行为模式：模板模式、纪念品模式、观察者模式、责任链模式、命令模式、声明模式、策略模式、中介模式、解释器模式、访问模式
-        4. 框架模式: MVC、MVVM、MVP
+     -  创建模式：工厂模式、单子模式、建造者模式、原型模式、工厂方法模式
+     -  结构模式：外观模式、代理模式、适配器模式、组合模式、装饰模式、桥模式、共享模式
+     -  行为模式：模板模式、纪念品模式、观察者模式、责任链模式、命令模式、声明模式、策略模式、中介模式、解释器模式、访问模式
+     -  框架模式: MVC、MVVM、MVP
                   <br/> [MVC、MVP和MVVM之间的区别是什么？](https://www.php.cn/faq/417265.html)
 
   - [ ] **UI** - UIKit相关的
@@ -84,30 +85,28 @@
   - [ ] **Protocol**
   - [ ] **Extension**
   - [ ] **Function** - 系统函数、API
-
-        - Map & FlatMap
+     - Map & FlatMap
         
-  - [ ] Others
-        - [Swift与JSContext的交互](https://github.com/deepindo/DoNote/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)
+  - [ ] **Others**
+     - [Swift与JSContext的交互](https://github.com/deepindo/DoNote/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)
 
 
 ### 3. App
 
   - [x] [iOS app的编译过程](https://github.com/deepindo/DoNote/wiki/iOS-app%E7%9A%84%E7%BC%96%E8%AF%91%E8%BF%87%E7%A8%8B)
-  - [x] [宏(define)与常量(const)的比较](https://github.com/deepindo/DoNote/wiki/iOS-%E5%AE%8F(define)%E4%B8%8E%E5%B8%B8%E9%87%8F(const)%E7%9A%84%E6%AF%94%E8%BE%83)
-  - [x] [break、continue、return三者的区别](https://github.com/deepindo/DoNote/wiki/iOS%E4%B8%ADbreak%E3%80%81continue%E3%80%81return%E4%B8%89%E8%80%85%E7%9A%84%E5%8C%BA%E5%88%AB)
-  - [x] [向上取整、向下取整、四舍五入](https://github.com/deepindo/DoNote/wiki/iOS%E5%90%91%E4%B8%8A%E5%8F%96%E6%95%B4%E3%80%81%E5%90%91%E4%B8%8B%E5%8F%96%E6%95%B4%E3%80%81%E5%9B%9B%E8%88%8D%E4%BA%94%E5%85%A5)
-  - [x] [UUID](https://github.com/deepindo/DoNote/wiki/iOS-%E5%85%B3%E4%BA%8EUUID)
-  - [x] [use_frameworks! 和 #use_frameworks!的区别](https://github.com/deepindo/DoNote/wiki/use_frameworks!-%E5%92%8C-%23use_frameworks!%E7%9A%84%E5%8C%BA%E5%88%AB)
   - [x] [iOS新闻类App内容页技术探索](https://github.com/deepindo/DoNote/wiki/iOS%E6%96%B0%E9%97%BB%E7%B1%BBApp%E5%86%85%E5%AE%B9%E9%A1%B5%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2)
+  - [ ] **小技巧**
+     - [x] [宏(define)与常量(const)的比较](https://github.com/deepindo/DoNote/wiki/iOS-%E5%AE%8F(define)%E4%B8%8E%E5%B8%B8%E9%87%8F(const)%E7%9A%84%E6%AF%94%E8%BE%83)
+     - [x] [break、continue、return三者的区别](https://github.com/deepindo/DoNote/wiki/iOS%E4%B8%ADbreak%E3%80%81continue%E3%80%81return%E4%B8%89%E8%80%85%E7%9A%84%E5%8C%BA%E5%88%AB)
+     - [x] [向上取整、向下取整、四舍五入](https://github.com/deepindo/DoNote/wiki/iOS%E5%90%91%E4%B8%8A%E5%8F%96%E6%95%B4%E3%80%81%E5%90%91%E4%B8%8B%E5%8F%96%E6%95%B4%E3%80%81%E5%9B%9B%E8%88%8D%E4%BA%94%E5%85%A5)
+     - [x] [UUID](https://github.com/deepindo/DoNote/wiki/iOS-%E5%85%B3%E4%BA%8EUUID)
+     - [x] [use_frameworks! 和 #use_frameworks!的区别](https://github.com/deepindo/DoNote/wiki/use_frameworks!-%E5%92%8C-%23use_frameworks!%E7%9A%84%E5%8C%BA%E5%88%AB)
   - [ ] **App优化** 
-```
-        - 启动优化
-        - 内存优化
-        - 界面优化
-        - 架构优化
+     - 启动优化
+     - 内存优化
+     - 界面优化
+     - 架构优化
           <br/> [App性能优化](https://github.com/deepindo/DoNote/wiki/APP%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
-```    
 
 ## 二、面试集
 
