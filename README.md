@@ -19,68 +19,43 @@
 
 ### 1. OC Basic
 
-  - [ ] **Data Structure** - 数据结构 
-        <br/> [管理对象内存的数据结构以及操作算法--SideTables、RefcountMap、weak_table_t](http://www.cocoachina.com/articles/19030)
-  - [ ] **Memory Management** - 内存管理
-        <br/> [iOS中引用计数相关问题](https://www.jianshu.com/p/13c9199350de/)
-        <br/> [iOS中类、元类、isa详解](http://www.cocoachina.com/articles/21805)
-        <br/> [SideTable](https://github.com/deepindo/DoNote/wiki/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86-SideTable)
+  - [x] **[Data Structure](https://github.com/deepindo/DoNote/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)** - 数据结构 
 
-  - [x] **Property**
-        <br/> [OC中属性修饰符](https://github.com/deepindo/DoNote/wiki/OC%E4%B8%AD%E5%B1%9E%E6%80%A7%E4%BF%AE%E9%A5%B0%E7%AC%A6)
-        <br/> [weakSelf、strongSelf、@weakify、@strongify](https://github.com/deepindo/DoNote/wiki/iOS%E4%B8%AD%E7%9A%84weakSelf%E3%80%81strongSelf%E3%80%81@weakify%E3%80%81@strongify)
-        <br/> [weakSelf与strongSelf的理解](https://github.com/deepindo/DoNote/wiki/weakSelf%E4%B8%8EstrongSelf%E7%9A%84%E7%90%86%E8%A7%A3)
+  - [x] **[Memory Management](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)** - 内存管理
+        
+  - [x] **[Property](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)**
 
   - [ ] **KVO**
   - [ ] **KVC**
   - [ ] **Block**
   - [ ] **Delegate**
-  - [ ] **Runloop** 
-        <br/> [CFRunLoop](https://github.com/deepindo/DoNote/wiki/CFRunLoop)
-
-  - [ ] **Runtime**
-        <br/> [Objc Runtime](https://github.com/deepindo/DoNote/wiki/Objc-Runtime)
-
-  - [ ] **Multithreading** - 多线程
-        <br/> [dispatch_group](https://github.com/deepindo/DoNote/wiki/iOS-dispatch_group)
-
-  - [ ] **Network** - http, https
-   - [iOS网络请求](https://github.com/deepindo/DoNote/wiki/iOS%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82)
-   - [加密解密、数字签名和证书、Token&SessionID、HTTPS](https://github.com/deepindo/DoNote/wiki/Encryption%E3%80%81Signature%E3%80%81Token&SessionID%E3%80%81HTTPS)
-   - [iOS RSA的网络安全模型、iOS签名机制总结（登录、token安全、签名）](https://www.jianshu.com/p/2927ca2b3719)
-
+  - [ ] [**Runloop**](https://github.com/deepindo/DoNote/wiki/iOSRunloop) 
+       
+  - [ ] [**Runtime**](https://github.com/deepindo/DoNote/wiki/iOSRuntime)
+       
+  - [ ] [**Multithreading**](https://github.com/deepindo/DoNote/wiki/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B) - 多线程
+        
+  - [ ] [**Network**](https://github.com/deepindo/DoNote/wiki/iOS%E7%BD%91%E7%BB%9C) - http, https
+   
   - [ ] **Native&JS** - 原生成JS交互
 
-  - [x] **Encryption** - 加密与解密
+  - [x] [**Encryption**](https://github.com/deepindo/DoNote/wiki/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95) - 加密与解密
 
-   - [加密算法](https://github.com/deepindo/DoNote/wiki/Encryption-Algorithm)
-
-        <br/> [iOS,一行代码进行RSA、DES 、AES、MD5加密、解密](http://www.cocoachina.com/articles/16480)
-        <br/> [iOS加密--AES（CBC）和RSA组合加密（避坑）](https://www.jianshu.com/p/4449b0040b24)
-        <br/> [iOS加密方式（RSA签名加密、AES加密等）](https://blog.csdn.net/IT_201607/article/details/76162551)
-
-
-  - [x] **Algorithm** - 算法
-        <br/> [算法](https://github.com/deepindo/DoNote/wiki/%E7%AE%97%E6%B3%95)
+  - [x] [**Algorithm**](https://github.com/deepindo/DoNote/wiki/iOS%E7%AE%97%E6%B3%95) - 算法
+        
   - [ ] **objc_msgsend**
-  - [x] **Design Patterns** - 设计模式.
-     -  创建模式：工厂模式、单子模式、建造者模式、原型模式、工厂方法模式
-     -  结构模式：外观模式、代理模式、适配器模式、组合模式、装饰模式、桥模式、共享模式
-     -  行为模式：模板模式、纪念品模式、观察者模式、责任链模式、命令模式、声明模式、策略模式、中介模式、解释器模式、访问模式
-     -  框架模式: MVC、MVVM、MVP
-                  <br/> [MVC、MVP和MVVM之间的区别是什么？](https://www.php.cn/faq/417265.html)
-
-  - [ ] **UI** - UIKit相关的
-        <br/> [layoutSubviews 和 layoutIfNeeded](https://github.com/deepindo/DoNote/wiki/iOS-layoutSubviews-%E5%92%8C-layoutIfNeeded)
-        <br/> [MBProgressHud 自定义背景 背景色 标题颜色](https://github.com/deepindo/DoNote/wiki/ios-MBProgressHud-%E8%87%AA%E5%AE%9A%E4%B9%89%E8%83%8C%E6%99%AF-%E8%83%8C%E6%99%AF%E8%89%B2-%E6%A0%87%E9%A2%98%E9%A2%9C%E8%89%B2)
-
+  
+  - [x] **[Design Patterns](https://github.com/deepindo/DoNote/wiki/iOS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)** - 设计模式.
+     
+  - [ ] [**UI**](https://github.com/deepindo/DoNote/wiki/iOSUIKit) - UIKit相关的
+        
   - [ ] **Third Party** - 第三方库
-        <br/> [AFN]()
 
-  - [ ] **SDKs** - SDK集合
-        <br/> [iOS推送](https://github.com/deepindo/DoNote/wiki/iOS%E6%8E%A8%E9%80%81)
-        <br/> [iOS日志及上报](https://github.com/deepindo/DoNote/wiki/iOS%E6%97%A5%E5%BF%97%E5%8F%8A%E4%B8%8A%E6%8A%A5)
-        <br/> []()
+  - [ ] [**SDKs**](https://github.com/deepindo/DoNote/wiki/iOSSDK%E9%9B%86%E5%90%88) - SDK集合
+        
+  - [ ] [**App优化**](https://github.com/deepindo/DoNote/wiki/iOSApp%E4%BC%98%E5%8C%96)
+
+  - [x] [**知识小集合**](https://github.com/deepindo/DoNote/wiki/iOS%E7%9F%A5%E8%AF%86%E5%B0%8F%E9%9B%86%E5%90%88)
 
 ### 2. Swift 
   - [ ] **Struct**
@@ -88,27 +63,9 @@
   - [ ] **Extension**
   - [ ] **Function** - 系统函数、API
      - Map & FlatMap
-        
   - [ ] **Others**
      - [Swift与JSContext的交互](https://github.com/deepindo/DoNote/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)
 
-
-### 3. App
-
-  - [x] [iOS app的编译过程](https://github.com/deepindo/DoNote/wiki/iOS-app%E7%9A%84%E7%BC%96%E8%AF%91%E8%BF%87%E7%A8%8B)
-  - [x] [iOS新闻类App内容页技术探索](https://github.com/deepindo/DoNote/wiki/iOS%E6%96%B0%E9%97%BB%E7%B1%BBApp%E5%86%85%E5%AE%B9%E9%A1%B5%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2)
-  - [ ] **小技巧**
-     - [x] [宏(define)与常量(const)的比较](https://github.com/deepindo/DoNote/wiki/iOS-%E5%AE%8F(define)%E4%B8%8E%E5%B8%B8%E9%87%8F(const)%E7%9A%84%E6%AF%94%E8%BE%83)
-     - [x] [break、continue、return三者的区别](https://github.com/deepindo/DoNote/wiki/iOS%E4%B8%ADbreak%E3%80%81continue%E3%80%81return%E4%B8%89%E8%80%85%E7%9A%84%E5%8C%BA%E5%88%AB)
-     - [x] [向上取整、向下取整、四舍五入](https://github.com/deepindo/DoNote/wiki/iOS%E5%90%91%E4%B8%8A%E5%8F%96%E6%95%B4%E3%80%81%E5%90%91%E4%B8%8B%E5%8F%96%E6%95%B4%E3%80%81%E5%9B%9B%E8%88%8D%E4%BA%94%E5%85%A5)
-     - [x] [UUID](https://github.com/deepindo/DoNote/wiki/iOS-%E5%85%B3%E4%BA%8EUUID)
-     - [x] [use_frameworks! 和 #use_frameworks!的区别](https://github.com/deepindo/DoNote/wiki/use_frameworks!-%E5%92%8C-%23use_frameworks!%E7%9A%84%E5%8C%BA%E5%88%AB)
-  - [ ] **App优化** 
-     - 启动优化
-     - 内存优化
-     - 界面优化
-     - 架构优化
-          <br/> [App性能优化](https://github.com/deepindo/DoNote/wiki/APP%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
 
 ## 二、面试集
 
