@@ -45,6 +45,7 @@
   - [x] [**知识小集合**](https://github.com/deepindo/DoNote/wiki/iOS%E7%9F%A5%E8%AF%86%E5%B0%8F%E9%9B%86%E5%90%88)
 
 ### 2. Swift 
+  - [ ] **Closure**
   - [ ] **Struct**
   - [ ] **Protocol**
   - [ ] **Extension**
