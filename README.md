@@ -49,7 +49,7 @@
   - [ ] **Protocol**
   - [ ] **Extension**
   - [ ] **Function** - 系统函数、API
-     - Map & FlatMap
+     - [Swift - 高阶函数介绍(map、flatMap、filter、reduce)](https://www.hangge.com/blog/cache/detail_1827.html)
   - [ ] **Others**
      - [Swift与JSContext的交互](https://github.com/deepindo/DoNote/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)
 
