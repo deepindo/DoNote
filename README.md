@@ -26,7 +26,7 @@
   - [x] **[Data Structure](https://github.com/deepindo/DoNote/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)** - 数据结构 
   - [x] **[Memory Management](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)** - 内存管理
   - [x] **[Property](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)**
-  - [x] **Block**
+  - [x] [**Block**]()
   - [ ] **Delegate**
   - [ ] **KVO**
   - [ ] **KVC**
@@ -53,9 +53,10 @@
      - [Swift - 高阶函数介绍(map、flatMap、filter、reduce)](https://www.hangge.com/blog/cache/detail_1827.html)
   - [ ] **Others**
      - [Swift与JSContext的交互](https://github.com/deepindo/DoNote/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)
+     - [SwiftTips](https://github.com/DarielChen/iOSTips)
 
 ### 3. 跨平台
-  - [ ] **Flutter**
+  - [ ] [**Flutter**](https://book.flutterchina.club/chapter1/mobile_development_intro.html#_1-1-2-hybrid%E6%8A%80%E6%9C%AF%E7%AE%80%E4%BB%8B) - [Flutter中文网](https://flutterchina.club/setup-macos/)
   - [ ] **UniApp** - vue自家的
   - [ ] **Angular+Ionic** - ionic与angular原配的，当然ionic也可以和vue以及react自由组合
   - [ ] **ReactNative**
