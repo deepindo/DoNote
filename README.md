@@ -12,49 +12,36 @@
 
 - **前言**: 从事iOS开发几年了，一直在业务需求及不同的项目中转动，对于基础知识及一些底层的知识一直不求甚解，期间也多次因为生活中的一地鸡毛，而处于一种惫懒，拖延的恶性循环中，这对于“出身”并不是特别好的开发而言是灾难性的，若是仍不求自救，可能一辈子就这样了。
 
-- **行动**: 在这里从全局的角度将iOS的开发舆图整理出来，然后逐渐补全学习或者整理笔记，另根据知识整理面试题集，知其然，知其所以然，还得能条理的表达出来。以上作为自己`自救`的一个方式吧！**知行合一**，真正做到很难，0到1的过程，就从这第一步开始吧！
+- **行动**: 在这里从全局的角度将iOS的开发舆图整理出来，然后逐渐补全学习或者整理笔记，不限于iOS，另根据知识整理面试题集，知其然，知其所以然，还得能条理的表达出来。以上作为自己`自救`的一个方式吧！**知行合一**，真正做到很难，0到1的过程，就从这第一步开始吧！
 
 
 ## 一、思维
 
 ### 1. OC Basic
 
+  - [ ] [**Runtime**](https://github.com/deepindo/DoNote/wiki/iOSRuntime)
+  - [ ] **objc_msgsend**
+  - [ ] [**Runloop**](https://github.com/deepindo/DoNote/wiki/iOSRunloop) 
+  - [ ] [**Multithreading**](https://github.com/deepindo/DoNote/wiki/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B) - 多线程
   - [x] **[Data Structure](https://github.com/deepindo/DoNote/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)** - 数据结构 
-
   - [x] **[Memory Management](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)** - 内存管理
-        
   - [x] **[Property](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)**
-
+  - [x] **Block**
+  - [ ] **Delegate**
   - [ ] **KVO**
   - [ ] **KVC**
-  - [ ] **Block**
-  - [ ] **Delegate**
-  - [ ] [**Runloop**](https://github.com/deepindo/DoNote/wiki/iOSRunloop) 
-       
-  - [ ] [**Runtime**](https://github.com/deepindo/DoNote/wiki/iOSRuntime)
-       
-  - [ ] [**Multithreading**](https://github.com/deepindo/DoNote/wiki/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B) - 多线程
-        
+  - [ ] **KVC**
   - [ ] [**Network**](https://github.com/deepindo/DoNote/wiki/iOS%E7%BD%91%E7%BB%9C) - http, https
-   
-  - [ ] **Native&JS** - 原生成JS交互
-
-  - [x] [**Encryption**](https://github.com/deepindo/DoNote/wiki/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95) - 加密与解密
 
   - [x] [**Algorithm**](https://github.com/deepindo/DoNote/wiki/iOS%E7%AE%97%E6%B3%95) - 算法
-        
-  - [ ] **objc_msgsend**
-  
-  - [x] **[Design Patterns](https://github.com/deepindo/DoNote/wiki/iOS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)** - 设计模式.
+  - [x] [**Encryption**](https://github.com/deepindo/DoNote/wiki/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95) - 加密与解密
+  - [x] [**Design Patterns**](https://github.com/deepindo/DoNote/wiki/iOS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)** - 设计模式.
      
   - [ ] [**UI**](https://github.com/deepindo/DoNote/wiki/iOSUIKit) - UIKit相关的
-        
+  - [ ] **Native&JS** - 原生成JS交互
   - [ ] **Third Party** - 第三方库
-
   - [ ] [**SDKs**](https://github.com/deepindo/DoNote/wiki/iOSSDK%E9%9B%86%E5%90%88) - SDK集合
-        
   - [ ] [**App优化**](https://github.com/deepindo/DoNote/wiki/iOSApp%E4%BC%98%E5%8C%96)
-
   - [x] [**知识小集合**](https://github.com/deepindo/DoNote/wiki/iOS%E7%9F%A5%E8%AF%86%E5%B0%8F%E9%9B%86%E5%90%88)
 
 ### 2. Swift 
@@ -65,6 +52,14 @@
      - Map & FlatMap
   - [ ] **Others**
      - [Swift与JSContext的交互](https://github.com/deepindo/DoNote/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)
+
+### 3. 跨平台
+  - [ ] **Flutter**
+  - [ ] **UniApp** - vue自家的
+  - [ ] **Angular+Ionic** - ionic与angular原配的，当然ionic也可以和vue以及react自由组合
+  - [ ] **ReactNative**
+
+### 4. Python
 
 
 ## 二、面试集
