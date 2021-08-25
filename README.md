@@ -17,11 +17,12 @@
 
 ## 一、思维
 
-### 1. OC Basic
+### 1. Objc
 
-
-  - [x] [**Data Structure**](https://github.com/deepindo/DoNote/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84) - 数据结构 
+  - [ ] [**objc**]() - objc基础
+  - [x] [**Data Structure**](https://github.com/deepindo/DoNote/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84) - 数据结构，数据类型
   - [x] [**Memory Management**](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86) - 内存管理
+  - [ ] [**Data Storage**]() - 数据存储
   - [x] [**Property**](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)
   - [x] [**Block**](https://github.com/deepindo/DoNote/wiki/iOS-Block)
   - [ ] [**Runtime**](https://github.com/deepindo/DoNote/wiki/iOSRuntime)
