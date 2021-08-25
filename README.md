@@ -19,20 +19,22 @@
 
 ### 1. OC Basic
 
+
+  - [x] [**Data Structure**](https://github.com/deepindo/DoNote/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84) - 数据结构 
+  - [x] [**Memory Management**](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86) - 内存管理
+  - [x] [**Property**](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)
+  - [x] [**Block**](https://github.com/deepindo/DoNote/wiki/iOS-Block)
   - [ ] [**Runtime**](https://github.com/deepindo/DoNote/wiki/iOSRuntime)
+  - [ ] [**NSObject**]()
   - [ ] **objc_msgsend**
   - [ ] [**Runloop**](https://github.com/deepindo/DoNote/wiki/iOSRunloop) 
   - [ ] [**Multithreading**](https://github.com/deepindo/DoNote/wiki/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B) - 多线程
-  - [x] **[Data Structure](https://github.com/deepindo/DoNote/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)** - 数据结构 
-  - [x] **[Memory Management](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)** - 内存管理
-  - [x] **[Property](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)**
-  - [x] [**Block**]()
   - [ ] **Delegate**
   - [ ] **KVO**
   - [ ] **KVC**
-  - [ ] **KVC**
+  - [ ] **Notification**
+  
   - [ ] [**Network**](https://github.com/deepindo/DoNote/wiki/iOS%E7%BD%91%E7%BB%9C) - http, https
-
   - [x] [**Algorithm**](https://github.com/deepindo/DoNote/wiki/iOS%E7%AE%97%E6%B3%95) - 算法
   - [x] [**Encryption**](https://github.com/deepindo/DoNote/wiki/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95) - 加密与解密
   - [x] [**Design Patterns**](https://github.com/deepindo/DoNote/wiki/iOS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)** - 设计模式.
@@ -49,14 +51,14 @@
   - [ ] **Struct**
   - [ ] **Protocol**
   - [ ] **Extension**
-  - [ ] **Function** - 系统函数、API
+  - [x] **Function** - 系统函数、API
      - [Swift - 高阶函数介绍(map、flatMap、filter、reduce)](https://www.hangge.com/blog/cache/detail_1827.html)
-  - [ ] **Others**
+  - [x] **Others**
      - [Swift与JSContext的交互](https://github.com/deepindo/DoNote/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)
      - [SwiftTips](https://github.com/DarielChen/iOSTips)
 
 ### 3. 跨平台
-  - [ ] [**Flutter**](https://book.flutterchina.club/chapter1/mobile_development_intro.html#_1-1-2-hybrid%E6%8A%80%E6%9C%AF%E7%AE%80%E4%BB%8B) - [Flutter中文网](https://flutterchina.club/setup-macos/)
+  - [x] [**Flutter**](https://book.flutterchina.club/chapter1/mobile_development_intro.html#_1-1-2-hybrid%E6%8A%80%E6%9C%AF%E7%AE%80%E4%BB%8B) - [Flutter中文网](https://flutterchina.club/setup-macos/)
   - [ ] **UniApp** - vue自家的
   - [ ] **Angular+Ionic** - ionic与angular原配的，当然ionic也可以和vue以及react自由组合
   - [ ] **ReactNative**
