@@ -60,11 +60,19 @@
 
 ### 3. 跨平台
   - [x] [**Flutter**](https://book.flutterchina.club/chapter1/mobile_development_intro.html#_1-1-2-hybrid%E6%8A%80%E6%9C%AF%E7%AE%80%E4%BB%8B) - [Flutter中文网](https://flutterchina.club/setup-macos/)
+  - [x] [**Angular+Ionic**](https://ionicframework.com/docs) - ionic与angular原配的，当然ionic也可以和vue以及react自由组合
   - [ ] **UniApp** - vue自家的
-  - [ ] **Angular+Ionic** - ionic与angular原配的，当然ionic也可以和vue以及react自由组合
+  - [ ] **HBuilder**
+  - [ ] **Xamarin.forms**
   - [ ] **ReactNative**
 
-### 4. Python
+### 4. 前端
+  - [ ] **H5**
+  - [ ] **Vue**
+  - [ ] **Angular**
+  - [ ] **React**
+
+### 5. Python
 
 
 ## 二、面试集
@@ -73,7 +81,7 @@
 2. [iOSInterviewsAndDevNotes](https://github.com/DevDragonLi/iOSInterviewsAndDevNotes)
 3. [全新角度剖析--iOS面试](https://juejin.cn/post/6899689319809286158)
 4. [2020-iOS面试题集合](https://github.com/LGCooci/LGiOSQuestions)
-  
+5. [iOS 面试宝典 没有比这更全的了（持续更新）](https://www.jianshu.com/p/3b7f3f596bcb)
 
   
 ## <a name="二、iOS舆图"></a> 三、iOS舆图
