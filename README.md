@@ -17,16 +17,20 @@
 
 ## 一、思维
 
-### 1. Objc
+### 1. C
+  - [x] [**c**](https://github.com/deepindo/DoNote/wiki/c) - c的一些基础
 
-  - [ ] [**objc**]() - objc基础
+### 2. Objc
+  - [x] [**objc**](https://github.com/deepindo/DoNote/wiki/iOS-objc.h) - objc.h
+  - [ ] [**NSObject**]() - NSObject.h
+  - [ ] [**runtime**]() - runtime.h
+  - [ ] [**message**]() - message.h
   - [x] [**Data Structure**](https://github.com/deepindo/DoNote/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84) - 数据结构，数据类型
   - [x] [**Memory Management**](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86) - 内存管理
   - [ ] [**Data Storage**]() - 数据存储
   - [x] [**Property**](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)
   - [x] [**Block**](https://github.com/deepindo/DoNote/wiki/iOS-Block)
   - [ ] [**Runtime**](https://github.com/deepindo/DoNote/wiki/iOSRuntime)
-  - [ ] [**NSObject**]()
   - [ ] **objc_msgsend**
   - [ ] [**Runloop**](https://github.com/deepindo/DoNote/wiki/iOSRunloop) 
   - [ ] [**Multithreading**](https://github.com/deepindo/DoNote/wiki/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B) - 多线程
@@ -47,7 +51,7 @@
   - [ ] [**App优化**](https://github.com/deepindo/DoNote/wiki/iOSApp%E4%BC%98%E5%8C%96)
   - [x] [**知识小集合**](https://github.com/deepindo/DoNote/wiki/iOS%E7%9F%A5%E8%AF%86%E5%B0%8F%E9%9B%86%E5%90%88)
 
-### 2. Swift 
+### 3. Swift 
   - [ ] **Closure**
   - [ ] **Struct**
   - [ ] **Protocol**
@@ -58,7 +62,7 @@
      - [Swift与JSContext的交互](https://github.com/deepindo/DoNote/wiki/Swift%E4%B8%8EJSContext%E7%9A%84%E4%BA%A4%E4%BA%92)
      - [SwiftTips](https://github.com/DarielChen/iOSTips)
 
-### 3. 跨平台
+### 4. 跨平台
   - [x] [**Flutter**](https://book.flutterchina.club/chapter1/mobile_development_intro.html#_1-1-2-hybrid%E6%8A%80%E6%9C%AF%E7%AE%80%E4%BB%8B) - [Flutter中文网](https://flutterchina.club/setup-macos/)
   - [x] [**Angular+Ionic**](https://ionicframework.com/docs) - ionic与angular原配的，当然ionic也可以和vue以及react自由组合
   - [ ] **UniApp** - vue自家的
@@ -66,13 +70,13 @@
   - [ ] **Xamarin.forms**
   - [ ] **ReactNative**
 
-### 4. 前端
+### 5. 前端
   - [ ] **H5**
   - [ ] **Vue**
   - [ ] **Angular**
   - [ ] **React**
 
-### 5. Python
+### 6. Python
 
 
 ## 二、面试集
