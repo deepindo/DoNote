@@ -21,6 +21,7 @@
   - [x] [**c**](https://github.com/deepindo/DoNote/wiki/c) - c的一些基础
 
 ### 2. Objc
+> 以下仅从宏观上列出主干，详情的objc脉络，请查看[objc总纲](https://github.com/deepindo/DoNote/wiki/iOS-objc%E6%80%BB%E7%BA%B2)
   - [x] [**objc4**](https://github.com/deepindo/DoNote/wiki/iOS-objc4) - objc源码
   - [x] [**struct**](https://github.com/deepindo/DoNote/wiki/iOS-objc.h) - struct分析
   - [x] [**objc**](https://github.com/deepindo/DoNote/wiki/iOS-objc.h) - objc.h
