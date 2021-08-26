@@ -15,7 +15,7 @@
 - **行动**: 在这里从全局的角度将iOS的开发舆图整理出来，然后逐渐补全学习或者整理笔记，不限于iOS，另根据知识整理面试题集，知其然，知其所以然，还得能条理的表达出来。以上作为自己`自救`的一个方式吧！**知行合一**，真正做到很难，0到1的过程，就从这第一步开始吧！
 
 
-## 一、思维
+## 一、思维脉络
 
 ### 1. C
   - [x] [**c**](https://github.com/deepindo/DoNote/wiki/c) - c的一些基础
@@ -203,11 +203,16 @@ iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 34. 向导
 
 
-## 三、欢迎提交 PR / issue
+## 四、外链
+戴铭: https://github.com/ming1016/study/wiki - ([iOS 开发舆图](https://github.com/ming1016/study/wiki/iOS-开发舆图)) <br/>
+王巍: https://onevcat.com/ <br/>
+唐巧: http://blog.devtang.com/ <br/>
+casa: https://casatwy.com/ <br/>
+周小鱼: http://zhoulingyu.com/ <br/>
 
+## 五、欢迎提交 PR / issue
 
-- 收集整理不易，且赞且珍惜！如果你觉得此仓库对你有价值，欢迎 star/fork，蟹蟹🤝。
-
+- 收集整理不易，且赞且珍惜！如果你觉得此仓库对你有价值，欢迎 star/fork，蟹蟹🤝。<br/>
 - **Email**: deepindo@foxmail.com, 有需要请联系 
 
 
