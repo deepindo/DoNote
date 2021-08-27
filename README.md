@@ -93,6 +93,9 @@
 ### 7. Harmony
 
 
+> 这两个暂时不考虑~~Android Fuchsia(Google新的自研操作系统)~~
+
+
 ## 二、面试集
 
 1. [iOS面试题大全--(附答案)](https://www.jianshu.com/p/e709fde38de3)
