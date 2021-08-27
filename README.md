@@ -91,7 +91,7 @@
 ### 6. Python
 
 ### 7. Harmony
-
+  - [x] [鸿蒙开发学堂](https://hmxt.org/academy)
 
 > 这两个暂时不考虑~~Android Fuchsia(Google新的自研操作系统)~~
 
