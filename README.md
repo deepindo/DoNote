@@ -67,11 +67,20 @@
 
 ### 4. 跨平台
   - [x] [**Flutter**](https://book.flutterchina.club/chapter1/mobile_development_intro.html#_1-1-2-hybrid%E6%8A%80%E6%9C%AF%E7%AE%80%E4%BB%8B) - [Flutter中文网](https://flutterchina.club/setup-macos/)
-  - [x] [**Angular+Ionic**](https://ionicframework.com/docs) - ionic与angular原配的，当然ionic也可以和vue以及react自由组合
+  - [x] [**Ionic**](https://ionicframework.com/docs) - ionic与angular原配的，当然ionic也可以和vue以及react自由组合
   - [ ] **UniApp** - vue自家的
   - [ ] **HBuilder**
   - [ ] **Xamarin.forms**
   - [ ] **ReactNative**
+
+| 技术类型 | UI渲染方式 | 开发效率 | 动态化 | 性能 | 框架代表 |
+| :--- | :--- | :--- | :--- | :--- | :--- | 
+| H5+原生 | WebView渲染 | 一般 | 高 | 支持 | Cordova、Ionic |
+| JavaScript+原生渲染 | 原生控件渲染 | 好 | 中 | 支持 | RN、Weex |
+| 自绘UI+原生 | 调用系统API渲染 | 好 | Flutter高, QT低 | 默认不支持 | QT、Flutter |
+
+表1-1: 跨平台技术对比<br/>
+上表中开发语言主要指UI的开发语言。而开发效率，是指整个开发周期的效率，包括编码时间、调试时间、以及排错、兼容时间。动态化主要指是否支持动态下发代码和是否支持热更新。值得注意的是Flutter的Release包默认是使用Dart AOT模式编译的，所以不支持动态化，但Dart还有JIT或snapshot运行方式，这些模式都是支持动态化的。
 
 ### 5. 前端
   - [ ] **H5**
