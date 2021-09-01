@@ -95,6 +95,7 @@
 
 > 这两个暂时不考虑~~Android Fuchsia(Google新的自研操作系统)~~
 
+### 8. [测试](https://github.com/deepindo/DoNote/wiki/%E5%85%B3%E4%BA%8E%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88)
 
 ## 二、面试集
 
