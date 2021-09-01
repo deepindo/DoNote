@@ -26,11 +26,10 @@
   - [x] [**Class&Object**](https://github.com/deepindo/DoNote/wiki/Objc-Class&Object)
   - [x] [**Block**](https://github.com/deepindo/DoNote/wiki/Objc-Block)
   - [x] [**Runtime**](https://github.com/deepindo/DoNote/wiki/Objc-Runtime)
-  - [ ] [**Struct**](https://github.com/deepindo/DoNote/wiki/iOS-objc.h) - struct分析
+  - [x] [**Data Structure**](https://github.com/deepindo/DoNote/wiki/Objc-DataStructure) - 数据结构，数据类型
   - [ ] [**Message Forwarding**]() - message.h
   - [x] [**objc**](https://github.com/deepindo/DoNote/wiki/iOS-objc.h) - objc.h
   - [ ] [**NSObject**]() - NSObject.h
-  - [ ] [**Data Structure**](https://github.com/deepindo/DoNote/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84) - 数据结构，数据类型
   - [ ] [**Memory Management**](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86) - 内存管理
   - [ ] [**Data Storage**]() - 数据存储
   - [ ] [**Property**](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)
