@@ -18,29 +18,28 @@
 ## 一、思维脉络
 
 ### 1. C
-  - [x] [**c**](https://github.com/deepindo/DoNote/wiki/c) - c的一些基础
+  - [x] [**C**](https://github.com/deepindo/DoNote/wiki/c) - c的一些基础
 
 ### 2. Objc
 > 以下仅从宏观上列出主干，详情的objc脉络，请查看[Objc目录](https://github.com/deepindo/DoNote/wiki/Objc-Catalogue)
-  - [x] [**objc4**](https://github.com/deepindo/DoNote/wiki/iOS-objc4) - objc源码
-  - [x] [**Class&Object**](https://github.com/deepindo/DoNote/wiki/Objc-Class&Object)
-  - [x] [**Block**](https://github.com/deepindo/DoNote/wiki/Objc-Block)
-  - [x] [**Runtime**](https://github.com/deepindo/DoNote/wiki/Objc-Runtime)
+  - [x] [**objc4**](https://github.com/deepindo/DoNote/wiki/iOS-objc4) - objc源码宏观了解
+  - [x] [**objc**](https://github.com/deepindo/DoNote/wiki/iOS-objc.h) - objc.h文件分析
+  - [x] [**NSObject**]() - NSObject了解
   - [x] [**Data Structure**](https://github.com/deepindo/DoNote/wiki/Objc-DataStructure) - 数据结构，数据类型
-  - [ ] [**Message Forwarding**]() - message.h
-  - [x] [**objc**](https://github.com/deepindo/DoNote/wiki/iOS-objc.h) - objc.h
-  - [ ] [**NSObject**]() - NSObject.h
-  - [ ] [**Memory Management**](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86) - 内存管理
-  - [ ] [**Data Storage**]() - 数据存储
-  - [ ] [**Property**](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)
-
-  - [ ] [**Runloop**](https://github.com/deepindo/DoNote/wiki/iOSRunloop) 
-  - [ ] [**Multithreading**](https://github.com/deepindo/DoNote/wiki/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B) - 多线程
+  - [x] [**Class&Object**](https://github.com/deepindo/DoNote/wiki/Objc-Class&Object) - objc中的类与对象本质
+  - [x] [**Property**](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)
+  - [x] [**Block**](https://github.com/deepindo/DoNote/wiki/Objc-Block) - objc中的block分析
+  - [x] [**Runtime**](https://github.com/deepindo/DoNote/wiki/Objc-Runtime) - runtime系统解析、runtime的使用
+  - [ ] [**Message Forwarding**]() - message.h - 消息转发-runtime中有
   - [ ] **Delegate**
   - [ ] **KVO**
   - [ ] **KVC**
   - [ ] **Notification**
-  
+  - [ ] [**Runloop**](https://github.com/deepindo/DoNote/wiki/iOSRunloop) 
+  - [ ] [**Multithreading**](https://github.com/deepindo/DoNote/wiki/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B) - 多线程
+  - [ ] [**Memory Management**](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86) - objc内存管理
+  - [ ] [**Data Storage**]() - 数据存储
+
   - [ ] [**Network**](https://github.com/deepindo/DoNote/wiki/iOS%E7%BD%91%E7%BB%9C) - http, https
   - [x] [**Algorithm**](https://github.com/deepindo/DoNote/wiki/iOS%E7%AE%97%E6%B3%95) - 算法
   - [x] [**Encryption**](https://github.com/deepindo/DoNote/wiki/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95) - 加密与解密
@@ -78,8 +77,7 @@
 | JavaScript+原生渲染 | 原生控件渲染 | 好 | 中 | 支持 | RN、Weex |
 | 自绘UI+原生 | 调用系统API渲染 | 好 | Flutter高, QT低 | 默认不支持 | QT、Flutter |
 
-表1-1: 跨平台技术对比<br/>
-上表中开发语言主要指UI的开发语言。而开发效率，是指整个开发周期的效率，包括编码时间、调试时间、以及排错、兼容时间。动态化主要指是否支持动态下发代码和是否支持热更新。值得注意的是Flutter的Release包默认是使用Dart AOT模式编译的，所以不支持动态化，但Dart还有JIT或snapshot运行方式，这些模式都是支持动态化的。
+上表为`跨平台技术对比`,其中开发语言主要指UI的开发语言。而开发效率，是指整个开发周期的效率，包括编码时间、调试时间、以及排错、兼容时间。动态化主要指是否支持动态下发代码和是否支持热更新。值得注意的是Flutter的Release包默认是使用Dart AOT模式编译的，所以不支持动态化，但Dart还有JIT或snapshot运行方式，这些模式都是支持动态化的。
 
 ### 5. 前端
   - [ ] **H5**
