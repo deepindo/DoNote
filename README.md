@@ -37,7 +37,7 @@
   - [ ] **Notification**
   - [ ] [**Runloop**](https://github.com/deepindo/DoNote/wiki/iOSRunloop) 
   - [ ] [**Multithreading**](https://github.com/deepindo/DoNote/wiki/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B) - 多线程
-  - [ ] [**Memory Management**](https://github.com/deepindo/DoNote/wiki/iOS%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86) - objc内存管理
+  - [ ] [**Memory Management**](https://github.com/deepindo/DoNote/wiki/Objc-MemoryManagement) - objc内存管理
   - [ ] [**Data Storage**]() - 数据存储
 
   - [ ] [**Network**](https://github.com/deepindo/DoNote/wiki/iOS%E7%BD%91%E7%BB%9C) - http, https
