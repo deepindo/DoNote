@@ -24,7 +24,7 @@
 > 以下仅从宏观上列出主干，详情的objc脉络，请查看[Objc目录](https://github.com/deepindo/DoNote/wiki/Objc-Catalogue)
   - [x] [**objc4**](https://github.com/deepindo/DoNote/wiki/iOS-objc4) - objc源码宏观了解
   - [x] [**objc**](https://github.com/deepindo/DoNote/wiki/iOS-objc.h) - objc.h文件分析
-  - [x] [**NSObject**]() - NSObject了解
+  - [x] [**NSObject**](https://github.com/deepindo/DoNote/wiki/Objc-NSObject) - NSObject了解
   - [x] [**Data Structure**](https://github.com/deepindo/DoNote/wiki/Objc-DataStructure) - 数据结构，数据类型
   - [x] [**Class&Object**](https://github.com/deepindo/DoNote/wiki/Objc-Class&Object) - objc中的类与对象本质
   - [x] [**Property**](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)
