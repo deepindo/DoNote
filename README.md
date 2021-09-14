@@ -22,7 +22,7 @@
 
 ### 2. Objc
 > 以下仅从宏观上列出主干，详情的objc脉络，请查看[Objc目录](https://github.com/deepindo/DoNote/wiki/Objc-Catalogue)
-  - [x] [**Xcode Compile**](https://github.com/deepindo/DoNote/wiki/Xcode-Compile) - xcode编译器相关
+  - [x] [**Compiler**](https://github.com/deepindo/DoNote/wiki/iOS-Compiler) - 编译器相关
   - [x] [**objc4**](https://github.com/deepindo/DoNote/wiki/iOS-objc4) - objc源码宏观了解
   - [x] [**objc**](https://github.com/deepindo/DoNote/wiki/iOS-objc.h) - objc.h文件分析
   - [x] [**NSObject**](https://github.com/deepindo/DoNote/wiki/Objc-NSObject) - NSObject了解
