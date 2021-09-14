@@ -217,6 +217,8 @@ iOS学习笔记通过wiki查看: <https://github.com/deepindo/DoNote/wiki>
 
 
 ## 四、外链
+ObjC 中国: https://objccn.io/<br/>
+Swift.org: https://swift.org/<br/>
 戴铭: https://github.com/ming1016/study/wiki - ([iOS 开发舆图](https://github.com/ming1016/study/wiki/iOS-开发舆图)) <br/>
 王巍: https://onevcat.com/ <br/>
 唐巧: http://blog.devtang.com/ <br/>
