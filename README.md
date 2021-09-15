@@ -48,7 +48,8 @@
   - [ ] **Animation** - 核心动画，动画框架，转场动画等
   - [ ] [**Feed流**]()
   - [ ] [**组件化**]()
-  - [ ] [**DSL**]()
+  - [ ] [**DSL**](http://awhisper.github.io/2017/05/01/DSLandLayoutEngine/)
+  - [ ] [**静态库，动态库与 Framework**](https://skyline75489.github.io/post/2015-8-14_ios_static_dynamic_framework_learning.html)
   - [ ] **Native&JS** - 原生成JS交互
   - [ ] **Third Party** - 第三方库
   - [ ] [**SDKs**](https://github.com/deepindo/DoNote/wiki/iOSSDK%E9%9B%86%E5%90%88) - SDK集合
