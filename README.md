@@ -45,12 +45,17 @@
   - [x] [**Algorithm**](https://github.com/deepindo/DoNote/wiki/iOS%E7%AE%97%E6%B3%95) - 算法
   - [x] [**Encryption**](https://github.com/deepindo/DoNote/wiki/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95) - 加密与解密
   - [x] [**Design Patterns**](https://github.com/deepindo/DoNote/wiki/iOS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F) - 设计模式.
-     
-  - [ ] [**UI**](https://github.com/deepindo/DoNote/wiki/iOSUIKit) - UIKit相关的
+  - [ ] [**Feed流**]()
+  - [ ] [**组件化**]()
+  - [ ] [**DSL**]()
   - [ ] **Native&JS** - 原生成JS交互
   - [ ] **Third Party** - 第三方库
   - [ ] [**SDKs**](https://github.com/deepindo/DoNote/wiki/iOSSDK%E9%9B%86%E5%90%88) - SDK集合
   - [ ] [**App优化**](https://github.com/deepindo/DoNote/wiki/iOSApp%E4%BC%98%E5%8C%96)
+  - [ ] [**React Family**]
+  - [ ] [**UI**](https://github.com/deepindo/DoNote/wiki/iOSUIKit) - UIKit相关的
+  - [ ] [**骨架屏**]()
+  - [ ] [**SDKs**](https://github.com/deepindo/DoNote/wiki/iOSSDK%E9%9B%86%E5%90%88) - SDK集
   - [x] [**知识小集合**](https://github.com/deepindo/DoNote/wiki/iOS%E7%9F%A5%E8%AF%86%E5%B0%8F%E9%9B%86%E5%90%88)
 
 ### 3. Swift 
