@@ -45,6 +45,7 @@
   - [x] [**Algorithm**](https://github.com/deepindo/DoNote/wiki/iOS%E7%AE%97%E6%B3%95) - 算法
   - [x] [**Encryption**](https://github.com/deepindo/DoNote/wiki/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95) - 加密与解密
   - [x] [**Design Patterns**](https://github.com/deepindo/DoNote/wiki/iOS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F) - 设计模式.
+  - [ ] **Animation** - 核心动画，动画框架，转场动画等
   - [ ] [**Feed流**]()
   - [ ] [**组件化**]()
   - [ ] [**DSL**]()
