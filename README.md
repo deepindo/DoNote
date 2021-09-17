@@ -77,7 +77,7 @@
   - [x] [**Flutter**](https://book.flutterchina.club/chapter1/mobile_development_intro.html#_1-1-2-hybrid%E6%8A%80%E6%9C%AF%E7%AE%80%E4%BB%8B) - [Flutter中文网](https://flutterchina.club/setup-macos/)
   - [x] [**Ionic**](https://ionicframework.com/docs) - ionic与angular原配的，当然ionic也可以和vue以及react自由组合
   - [ ] **UniApp** - vue自家的
-  - [ ] [**Weex**](https://zhuanlan.zhihu.com/p/21677103) - 评论中争议较多
+  - [ ] [**Weex**](https://zhuanlan.zhihu.com/p/21677103) - 评论中争议较多, [Weex 是如何在 iOS 客户端上跑起来的](https://www.jianshu.com/p/41cde2c62b81)
   - [ ] **HBuilder**
   - [ ] **Xamarin.forms**
   - [ ] **ReactNative**
