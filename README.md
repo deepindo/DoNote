@@ -53,7 +53,7 @@
   - [ ] [**Auto Layout**](https://draveness.me/layout-performance/) - 从 Auto Layout 的布局算法谈性能
   - [ ] [**DSL**](http://awhisper.github.io/2017/05/01/DSLandLayoutEngine/)
   - [ ] **Native&JS** - 原生成JS交互
-  - [ ] **Third Party** - 第三方库
+  - [ ] [**Third Party**](https://github.com/draveness/analyze) - 第三方库
   - [ ] [**SDKs**](https://github.com/deepindo/DoNote/wiki/iOSSDK%E9%9B%86%E5%90%88) - SDK集合
   - [ ] [**App优化**](https://github.com/deepindo/DoNote/wiki/iOSApp%E4%BC%98%E5%8C%96)
   - [ ] [**React Family**]()
