@@ -26,25 +26,30 @@
   - [x] [**objc4**](https://github.com/deepindo/DoNote/wiki/iOS-objc4) - objc源码宏观了解
   - [x] [**objc**](https://github.com/deepindo/DoNote/wiki/iOS-objc.h) - objc.h文件分析
   - [x] [**NSObject**](https://github.com/deepindo/DoNote/wiki/Objc-NSObject) - NSObject了解
-  - [x] [**Data Structure**](https://github.com/deepindo/DoNote/wiki/Objc-DataStructure) - 数据结构，数据类型
   - [x] [**Class&Object**](https://github.com/deepindo/DoNote/wiki/Objc-Class&Object) - objc中的类与对象本质
   - [x] [**Property**](https://github.com/deepindo/DoNote/wiki/iOS%E4%BF%AE%E9%A5%B0%E7%AC%A6)
-  - [x] [**Block**](https://github.com/deepindo/DoNote/wiki/Objc-Block) - objc中的block分析
+  
   - [x] [**Runtime**](https://github.com/deepindo/DoNote/wiki/Objc-Runtime) - runtime系统解析、runtime的使用
   - [ ] [**Message Forwarding**]() - message.h - 消息转发-runtime中有
+  - [x] [**Data Structure**](https://github.com/deepindo/DoNote/wiki/Objc-DataStructure) - 数据结构，数据类型
+  - [x] [**Algorithm**](https://github.com/deepindo/DoNote/wiki/iOS%E7%AE%97%E6%B3%95) - 算法
+  - [ ] [**Multithreading**](https://github.com/deepindo/DoNote/wiki/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B) - 多线程、锁
+  - [ ] [**Runloop**](https://github.com/deepindo/DoNote/wiki/iOSRunloop) 
+  - [ ] [**Memory Management**](https://github.com/deepindo/DoNote/wiki/Objc-MemoryManagement) - 内存管理
+  - [ ] [**Data Storage**]() - 数据存储
+  - [ ] [**Network**](https://github.com/deepindo/DoNote/wiki/iOS%E7%BD%91%E7%BB%9C) - http, https等网络相关
+  - [x] [**Encryption**](https://github.com/deepindo/DoNote/wiki/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95) - 数据安全、加密与解密
+  - [x] [**Design Patterns**](https://github.com/deepindo/DoNote/wiki/iOS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F) - 设计模式
+  
+  - [x] [**Block**](https://github.com/deepindo/DoNote/wiki/Objc-Block) - objc中的block分析
   - [ ] **Delegate**
   - [ ] **KVO**
   - [ ] **KVC**
   - [ ] **Notification**
-  - [ ] [**Runloop**](https://github.com/deepindo/DoNote/wiki/iOSRunloop) 
-  - [ ] [**Multithreading**](https://github.com/deepindo/DoNote/wiki/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B) - 多线程
-  - [ ] [**Memory Management**](https://github.com/deepindo/DoNote/wiki/Objc-MemoryManagement) - objc内存管理
-  - [ ] [**Data Storage**]() - 数据存储
 
-  - [ ] [**Network**](https://github.com/deepindo/DoNote/wiki/iOS%E7%BD%91%E7%BB%9C) - http, https
-  - [x] [**Algorithm**](https://github.com/deepindo/DoNote/wiki/iOS%E7%AE%97%E6%B3%95) - 算法
-  - [x] [**Encryption**](https://github.com/deepindo/DoNote/wiki/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95) - 加密与解密
-  - [x] [**Design Patterns**](https://github.com/deepindo/DoNote/wiki/iOS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F) - 设计模式.
+  - [ ] [**UI相关**](https://github.com/deepindo/DoNote/wiki/iOSUIKit) - UIKit相关的
+  - [ ] [**App优化**](https://github.com/deepindo/DoNote/wiki/iOSApp%E4%BC%98%E5%8C%96)
+
   - [ ] **Animation** - 核心动画，动画框架，转场动画等
   - [ ] [**Feed流**]()
   - [ ] [**组件化**]()
@@ -55,9 +60,7 @@
   - [ ] **Native&JS** - 原生成JS交互
   - [ ] [**Third Party**](https://github.com/draveness/analyze) - 第三方库
   - [ ] [**SDKs**](https://github.com/deepindo/DoNote/wiki/iOSSDK%E9%9B%86%E5%90%88) - SDK集合
-  - [ ] [**App优化**](https://github.com/deepindo/DoNote/wiki/iOSApp%E4%BC%98%E5%8C%96)
   - [ ] [**React Family**]()
-  - [ ] [**UI**](https://github.com/deepindo/DoNote/wiki/iOSUIKit) - UIKit相关的
   - [ ] [**骨架屏**]()
   - [ ] [**SDKs**](https://github.com/deepindo/DoNote/wiki/iOSSDK%E9%9B%86%E5%90%88) - SDK集
   - [x] [**知识小集合**](https://github.com/deepindo/DoNote/wiki/iOS%E7%9F%A5%E8%AF%86%E5%B0%8F%E9%9B%86%E5%90%88)
